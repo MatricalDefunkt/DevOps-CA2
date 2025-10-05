@@ -21,3 +21,8 @@ bun run src/index.ts
 - `k8s/` - kubernetes configs
 - `ansible/` - server setup
 - `scripts/` - deployment scripts
+
+## Team Members
+
+@ggrayapura7
+@Mayhem6689
